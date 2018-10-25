@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
+import Container from './Container.js';
 
 class App extends Component {
   render() {
@@ -10,6 +11,7 @@ class App extends Component {
             Edit <code>src/App.js</code> and save to reload.
           </p>
         </header>
+        <Container />
       </div>
     );
   }
