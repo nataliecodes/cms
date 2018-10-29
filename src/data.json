@@ -1,0 +1,48 @@
+{
+  "page": "Page one",
+  "stripes": [
+    {
+      "stripeType": "stripe1",
+      "fields": [
+        {
+          "name": "bigText",
+          "value": "Big text hey1"
+        },
+        {
+          "name": "littleText",
+          "value": "Little text 1. Little text 1. Little text 1."
+        }
+      ]
+    },
+    {
+      "stripeType": "stripe2",
+      "fields": [
+        {
+          "name": "bigText",
+          "value": "Big text 2"
+        },
+        {
+          "name": "littleText",
+          "value": "Little text 2. Little text 2. Little text 2."
+        },
+        {
+          "name": "image",
+          "value": "https://via.placeholder.com/150"
+        }
+      ]
+    },
+    {
+      "stripeType": "stripe1",
+      "fields": [
+        {
+          "name": "bigText",
+          "value": "Big text hey3"
+        },
+        {
+          "name": "littleText",
+          "value": "Little text 3. Little text 3. Little text 3."
+        }
+      ]
+    }
+  ]
+}
